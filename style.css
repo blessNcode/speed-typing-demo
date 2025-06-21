@@ -5,8 +5,12 @@
 body {
     background-color: #333333;
     /* font styling here */
-
+        font-family: "Kosugi Maru", sans-serif;
+        font-weight: 400;
+        font-style: normal;
 }
+
+
 
 /*
  *
@@ -45,6 +49,7 @@ body {
     padding: 10px 40px 10px 40px; /* top right bottom left */
     font-size: 24px;
 }
+
 
 /* allows for score and time left components to be horizontal */
 .stats {
